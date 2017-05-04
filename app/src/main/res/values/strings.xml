@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SecureMessagingAppLayout</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="show_dailog">show dailog</string>
+    <string name="loginbutton">loginButton</string>
+    <string name="newuser">NewUser</string>
+    <string name="forgotpassword">forgotpassword</string>
+    <string name="unlock_message">Unlock Message</string>
+    <string name="type_msg">Type msg...</string>
+    <string name="contact_1">Contact 1</string>
+    <string name="contact_2">Contact 2</string>
+    <string name="contact_3">Contact 3</string>
+    <string name="contact_4">Contact 4</string>
+    <string name="with_passcode">with passcode</string>
+    <string name="with_pattern">with pattern</string>
+    <string name="firstname">FirstName</string>
+    <string name="lastname">LastName</string>
+    <string name="email_add">Email add</string>
+    <string name="message_from_contacts">Message from Contacts</string>
+    <string name="login">Login</string>
+</resources>
